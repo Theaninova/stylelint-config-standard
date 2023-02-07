@@ -1,0 +1,23 @@
+{
+  "name": "@theaninova/stylelint-config-standard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Theaninova/stylelint-config-standard.git"
+  },
+  "dependencies": {
+    "stylelint-config-standard-scss": "^6.1.0",
+    "stylelint-config-prettier-scss": "^0.0.1",
+    "stylelint-config-html": "^1.1.0",
+    "stylelint-config-recommended-scss": "^8.0.0",
+    "stylelint-config-clean-order": "^2.3.1"
+  },
+  "author": "Thea Schöbl <dev@theaninova.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Theaninova/stylelint-config-standard/issues"
+  },
+  "homepage": "https://github.com/Theaninova/stylelint-config-standard#readme"
+}
